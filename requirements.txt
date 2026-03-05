@@ -1,6 +1,6 @@
 pycryptodomex
 pyrogram
 requests
-yt-dlp>=2026.02.21
+yt-dlp
 motor
 hanime-plugin
