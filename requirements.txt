@@ -1,6 +1,5 @@
 pycryptodomex
 pyrogram
-tgcrypto
 requests
 yt-dlp>=2026.02.21
 motor
