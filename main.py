@@ -55,7 +55,7 @@ def keep_alive():
 # ==========================================
 API_ID = 33675350
 API_HASH = "2f97c845b067a750c9f36fec497acf97"
-BOT_TOKEN = "8798570619:AAE0Bz4umU7JMDn61AcssHwntSRyjNjzu-Q"  
+BOT_TOKEN = "8743338052:AAGFhNdkuxiDyksb7bl_FbsP6UbBB-MvODw"  
 
 MONGO_URL = "mongodb+srv://salonisingh6265_db_user:U50ONNZZFUbh0iQI@cluster0.41mb27f.mongodb.net/?appName=Cluster0"
 mongo_client = AsyncIOMotorClient(MONGO_URL)
